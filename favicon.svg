@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" role="img" aria-label="Sandhya Anandaram monogram">
+  <defs>
+    <linearGradient id="bg" x1="18" y1="14" x2="110" y2="116" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#17316f"/>
+      <stop offset="0.58" stop-color="#1f3c88"/>
+      <stop offset="1" stop-color="#2b7a78"/>
+    </linearGradient>
+  </defs>
+  <rect width="128" height="128" rx="28" fill="url(#bg)"/>
+  <circle cx="98" cy="28" r="12" fill="#f9d65c"/>
+  <text x="64" y="80" text-anchor="middle" fill="#ffffff" font-family="Montserrat, Arial, sans-serif" font-size="48" font-weight="700">SA</text>
+</svg>
